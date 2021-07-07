@@ -1,0 +1,12 @@
+You need to have the current items installed to run the code:
+
+Python
+OpenCV with PIP
+The two haarcascade files in the python folder
+A webcam
+
+Instructions to use:
+
+Spacebar  ---> To show current coordinates of face
+S ---> Save your preferred coordinates of your face relative to your webcam
+G ---> Shows the current displacement of your face relative to your preferred coordinates that you have saved
